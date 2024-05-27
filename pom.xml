@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>Reachrich</groupId>
+    <groupId>sut.edu.zyp</groupId>
     <artifactId>dormitory-manage</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
@@ -82,4 +82,3 @@
         </plugins>
     </build>
 </project>
-<!--配置基于 Spring Boot 的 Java Web 项目所需的基本信息、依赖关系和构建配置。-->
