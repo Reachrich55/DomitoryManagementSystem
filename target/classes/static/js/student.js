@@ -31,7 +31,7 @@ function initStudent() {
         sortable: false,
         columns: [{
             field: 'sn',
-            title: '学生编号',
+            title: '学号',
             align: 'center',
             valign: 'left'
         }, {
