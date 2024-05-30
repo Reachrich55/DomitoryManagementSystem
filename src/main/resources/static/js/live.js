@@ -31,7 +31,7 @@ function initLive() {
         sortable: false,
         columns: [{
             field: 'studentSn',
-            title: '学生编号',
+            title: '学号',
             align: 'left',
             valign: 'left'
         }, {
@@ -46,7 +46,7 @@ function initLive() {
             valign: 'left'
         }, {
             field: 'liveDate',
-            title: '入住日期',
+            title: '床位',
             align: 'center',
             valign: 'middle'
         }, {

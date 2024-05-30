@@ -31,22 +31,12 @@ function initBuilding() {
         sortable: false,
         columns: [{
             field: 'name',
-            title: '楼宇名称',
-            align: 'left',
-            valign: 'left'
-        }, {
-            field: 'location',
-            title: '楼宇所属位置',
-            align: 'left',
-            valign: 'left'
-        }, {
-            field: 'dormitoryManagerSn',
-            title: '宿管编号',
+            title: '宿舍编号',
             align: 'left',
             valign: 'left'
         }, {
             field: 'dormitoryManagerName',
-            title: '宿管名称',
+            title: '卫生得分',
             align: 'left',
             valign: 'left'
         }, {

@@ -35,16 +35,6 @@ function initDormitory() {
             align: 'left',
             valign: 'left'
         }, {
-            field: 'buildingName',
-            title: '所属楼宇',
-            align: 'left',
-            valign: 'left'
-        }, {
-            field: 'floor',
-            title: '所属楼层',
-            align: 'center',
-            valign: 'middle'
-        }, {
             field: 'maxNumber',
             title: '最大可住人数',
             align: 'center',
