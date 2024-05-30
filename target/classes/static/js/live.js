@@ -45,7 +45,7 @@ function initLive() {
             align: 'left',
             valign: 'left'
         }, {
-            field: 'liveDate',
+            field: 'livedNumber',
             title: '床位',
             align: 'center',
             valign: 'middle'

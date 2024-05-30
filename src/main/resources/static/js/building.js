@@ -35,7 +35,7 @@ function initBuilding() {
             align: 'left',
             valign: 'left'
         }, {
-            field: 'dormitoryManagerName',
+            field: 'location',
             title: '卫生得分',
             align: 'left',
             valign: 'left'
