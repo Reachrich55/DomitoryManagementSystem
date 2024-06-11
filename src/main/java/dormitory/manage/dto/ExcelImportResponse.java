@@ -8,19 +8,13 @@ import java.util.Map;
 
 public class ExcelImportResponse extends AbstractBaseResponse<ExcelImportResponse> implements Serializable {
 
-    /**
-     * 导入的表
-     */
+    // 导入的表
     private String table;
 
-    /**
-     * 导入成功行数
-     */
+    // 导入成功行数
     private int successRows;
 
-    /**
-     * 导入成功的数据
-     */
+    // 导入成功的数据
     private List<Map<String,String>> saveData;
 
     public String getTable() {

@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
-// 应用启动，主程序入口,spring boot 框架自带tomcat，对于jar包可以直接启动
+// 应用启动类，主程序入口,spring boot 框架自带tomcat，对于jar包可以直接启动
 
 @EnableJpaAuditing
 @SpringBootApplication
